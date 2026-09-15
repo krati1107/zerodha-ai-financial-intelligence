@@ -31,7 +31,9 @@ An end-to-end AI platform that:
 ## 📁 Project Structure
 
 zerodha-ai-financial-intelligence/
+
 │
+
 ├── README.md
 
 ├── requirements.txt
@@ -41,14 +43,23 @@ zerodha-ai-financial-intelligence/
 │ ├── stock_data.db
 
 │ └── financial_docs/
+
 ├── notebooks/
+
 │ ├── 01_data_collection.ipynb
+
 │ ├── 02_rag_pipeline.ipynb
+
 │ └── 03_agents.ipynb
+
 ├── src/
+
 │ ├── data_fetcher.py
+
 │ ├── rag_pipeline.py
+
 │ └── agents.py
+
 └── app.py
 
 
