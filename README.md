@@ -33,9 +33,13 @@ An end-to-end AI platform that:
 zerodha-ai-financial-intelligence/
 │
 ├── README.md
+
 ├── requirements.txt
+
 ├── data/
+
 │ ├── stock_data.db
+
 │ └── financial_docs/
 ├── notebooks/
 │ ├── 01_data_collection.ipynb
