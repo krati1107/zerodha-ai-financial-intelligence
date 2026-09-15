@@ -1,0 +1,15 @@
+yfinance
+pandas
+numpy
+streamlit
+plotly
+langchain
+langchain-community
+langchain-groq
+chromadb
+faiss-cpu
+sentence-transformers
+crewai
+langgraph
+python-dotenv
+pypdf
