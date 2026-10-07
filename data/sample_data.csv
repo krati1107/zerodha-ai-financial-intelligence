@@ -1,0 +1,13 @@
+client_name,symbol,quantity,avg_price,sector
+Krati Shrivastava,HDFCBANK,120,940,Banking
+Krati Shrivastava,ICICIBANK,80,1210,Banking
+Krati Shrivastava,SBIN,150,720,Banking
+Krati Shrivastava,RELIANCE,90,1360,Energy
+Krati Shrivastava,TCS,30,3400,IT
+Krati Shrivastava,INFY,70,1520,IT
+Krati Shrivastava,ITC,250,395,FMCG
+Krati Shrivastava,LT,25,3300,Infrastructure
+Krati Shrivastava,SUNPHARMA,55,1450,Pharma
+Krati Shrivastava,MARUTI,7,11800,Auto
+Krati Shrivastava,WIPRO,0,260,IT
+Krati Shrivastava,XYZ@#,10,100,IT
