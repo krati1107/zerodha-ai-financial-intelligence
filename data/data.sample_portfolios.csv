@@ -1,0 +1,7 @@
+symbol,quantity,avg_price,current_price,sector
+RELIANCE,10,2400,2550,Energy
+TCS,5,3500,3400,IT
+HDFCBANK,20,1500,1650,Financials
+INFY,8,1400,1450,IT
+ITC,40,400,430,FMCG
+TATAMOTORS,15,600,720,Auto
