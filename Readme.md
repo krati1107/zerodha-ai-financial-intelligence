@@ -14,6 +14,22 @@ Portfolio Input -> Data Fetch -> MCP Unification -> Analytics Engine -> LLM Anal
 **[▶️ Watch the Demo Video on OneDrive](https://1drv.ms/f/c/0C3C682A870456A0/IgBuevacCYnxS7JwBxCysJftAaS-32Xre-_z-0u7L0L1oOc?e=pbRy7W)**
 
 ---
+## 📸 Screenshots
+
+### Overview Dashboard
+![Overview](docs/screenshots/overview.png)
+
+### Risk Analysis
+![Risk](docs/screenshots/risk.png)
+
+### AI Analyst
+![Analyst](docs/screenshots/analyst.png)
+
+### Insights & Recommendations
+![Insights](docs/screenshots/insights.png)
+
+### Compliance Audit
+![Compliance](docs/screenshots/compliance.png)
 
 ## 💻 Current Implementation Status
 
