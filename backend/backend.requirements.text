@@ -1,6 +1,11 @@
+
 fastapi
 uvicorn
 pandas
 numpy
 python-dotenv
 google-generativeai
+sqlalchemy
+pydantic
+httpx
+pytest
