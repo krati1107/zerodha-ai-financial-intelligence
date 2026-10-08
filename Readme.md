@@ -17,7 +17,8 @@ Portfolio Input -> Data Fetch -> MCP Unification -> Analytics Engine -> LLM Anal
 ## 📸 Screenshots
 
 ### Overview Dashboard
-![Overview] (https://1drv.ms/i/c/0C3C682A870456A0/IQA03x8BlNlvSqUqYM5vyTarAXVXyUQxMI6nPw3gilPywBQ?e=8lsGj5)
+![Overview](![Uploading overview.png…])
+
 
 ### Risk Analysis
 ![Risk](https://1drv.ms/i/c/0C3C682A870456A0/IQCoZPy4bOEOS4mYVHalcvgfAfT4WF7BMrCxYY7DOEMjbwo?e=gth3gF)
