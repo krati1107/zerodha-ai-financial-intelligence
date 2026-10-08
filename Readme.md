@@ -19,15 +19,30 @@ An AI-powered portfolio intelligence platform that transforms portfolio data, ma
 4. Click on **"Start with a sample portfolio"** to see the full end-to-end UI workflow.
 
 ## 📂 Sample Data
-Sample portfolio data is provided in the `data/` folder.
+## 🌐 Live Demo
+
+[🔗 Open Live Dashboard on Netlify](https://amazing-licorice-6b392f.netlify.app)
+
+## 📹 Demo Video
+
+[▶️ Watch the Demo Video on OneDrive](https://1drv.ms/f/c/0C3C682A870456A0/IgBuevacCYnxS7JwBxCysJftAaS-32Xre-_z-0u7L0L1oOc?e=pbRy7W)
+
+## 👤 Author
+
+**Made by Krati Shrivastava**
+
+- GitHub: [@krati1107](https://github.com/krati1107)
+- Role: Sole contributor — Product design, frontend, backend, AI workflows, MCP server, documentation, and testing
+
+---
+
+*This is a solo project. All components were designed and implemented individually by Krati Shrivastava.*Sample portfolio data is provided in the `data/` folder.
 
 ## 🛡️ Safety and Governance
 The platform includes validation rules to prevent unsupported financial claims, disclaimers on all outputs, and audit logs for compliance review.
 
-## 🌐 Live Demo
-**[https://amazing-licorice-6b392f.netlify.app](https://amazing-licorice-6b392f.netlify.app)**
 
-## 📹 Demo Video
-*(Coming soon)*
+
+
 
 ---
