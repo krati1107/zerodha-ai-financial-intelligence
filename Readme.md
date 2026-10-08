@@ -20,16 +20,16 @@ Portfolio Input -> Data Fetch -> MCP Unification -> Analytics Engine -> LLM Anal
 ![Overview] https://1drv.ms/i/c/0C3C682A870456A0/IQA03x8BlNlvSqUqYM5vyTarAXVXyUQxMI6nPw3gilPywBQ?e=8lsGj5
 
 ### Risk Analysis
-![Risk](docs/screenshots/risk.png)
+![Risk]https://1drv.ms/i/c/0C3C682A870456A0/IQCoZPy4bOEOS4mYVHalcvgfAfT4WF7BMrCxYY7DOEMjbwo?e=gth3gF
 
 ### AI Analyst
-![Analyst](docs/screenshots/analyst.png)
+![Analyst] https://1drv.ms/i/c/0C3C682A870456A0/IQA5sVmLe6KDQZAm9kjonpbdAe-H5qkcgHyZLzg395TQNOY?e=ma76m8
 
-### Insights & Recommendations
-![Insights](docs/screenshots/insights.png)
+### Insights 
+![Insights] https://1drv.ms/i/c/0C3C682A870456A0/IQApAkv6W7DNT5kcH2qjyBsPAdkUsK_uj7RwPdH7whu4Daw?e=gIjOh2
 
 ### Compliance Audit
-![Compliance](docs/screenshots/compliance.png)
+![Compliance] https://1drv.ms/i/c/0C3C682A870456A0/IQAOjwu9JzJYS5ZReYhDq8GkAb5Ovee1u4QnFX20AfuKKHg?e=NhuVFw
 
 ## 💻 Current Implementation Status
 
