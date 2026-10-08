@@ -17,19 +17,19 @@ Portfolio Input -> Data Fetch -> MCP Unification -> Analytics Engine -> LLM Anal
 ## 📸 Screenshots
 
 ### Overview Dashboard
-![Overview] https://1drv.ms/i/c/0C3C682A870456A0/IQA03x8BlNlvSqUqYM5vyTarAXVXyUQxMI6nPw3gilPywBQ?e=8lsGj5
+![Overview] (https://1drv.ms/i/c/0C3C682A870456A0/IQA03x8BlNlvSqUqYM5vyTarAXVXyUQxMI6nPw3gilPywBQ?e=8lsGj5)
 
 ### Risk Analysis
-![Risk]https://1drv.ms/i/c/0C3C682A870456A0/IQCoZPy4bOEOS4mYVHalcvgfAfT4WF7BMrCxYY7DOEMjbwo?e=gth3gF
+![Risk](https://1drv.ms/i/c/0C3C682A870456A0/IQCoZPy4bOEOS4mYVHalcvgfAfT4WF7BMrCxYY7DOEMjbwo?e=gth3gF)
 
 ### AI Analyst
-![Analyst] https://1drv.ms/i/c/0C3C682A870456A0/IQA5sVmLe6KDQZAm9kjonpbdAe-H5qkcgHyZLzg395TQNOY?e=ma76m8
+![Analyst] (https://1drv.ms/i/c/0C3C682A870456A0/IQA5sVmLe6KDQZAm9kjonpbdAe-H5qkcgHyZLzg395TQNOY?e=ma76m8)
 
 ### Insights 
-![Insights] https://1drv.ms/i/c/0C3C682A870456A0/IQApAkv6W7DNT5kcH2qjyBsPAdkUsK_uj7RwPdH7whu4Daw?e=gIjOh2
+![Insights] (https://1drv.ms/i/c/0C3C682A870456A0/IQApAkv6W7DNT5kcH2qjyBsPAdkUsK_uj7RwPdH7whu4Daw?e=gIjOh2)
 
 ### Compliance Audit
-![Compliance] https://1drv.ms/i/c/0C3C682A870456A0/IQAOjwu9JzJYS5ZReYhDq8GkAb5Ovee1u4QnFX20AfuKKHg?e=NhuVFw
+![Compliance] (https://1drv.ms/i/c/0C3C682A870456A0/IQAOjwu9JzJYS5ZReYhDq8GkAb5Ovee1u4QnFX20AfuKKHg?e=NhuVFw)
 
 ## 💻 Current Implementation Status
 
