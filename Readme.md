@@ -23,3 +23,11 @@ Sample portfolio data is provided in the `data/` folder.
 
 ## 🛡️ Safety and Governance
 The platform includes validation rules to prevent unsupported financial claims, disclaimers on all outputs, and audit logs for compliance review.
+
+## 🌐 Live Demo
+**[https://amazing-licorice-6b392f.netlify.app](https://amazing-licorice-6b392f.netlify.app)**
+
+## 📹 Demo Video
+*(Coming soon)*
+
+---
