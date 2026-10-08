@@ -20,18 +20,21 @@ Portfolio Input -> Data Fetch -> MCP Unification -> Analytics Engine -> LLM Anal
 ![Overview]<img width="1466" height="717" alt="overview (1)" src="https://github.com/user-attachments/assets/74008e05-bf38-4a89-8a6c-3ad4a1b0512c" />
 
 
-
 ### Risk Analysis
-![Risk](https://1drv.ms/i/c/0C3C682A870456A0/IQCoZPy4bOEOS4mYVHalcvgfAfT4WF7BMrCxYY7DOEMjbwo?e=gth3gF)
+![Risk]<img width="1448" height="722" alt="risk" src="https://github.com/user-attachments/assets/d84858cd-c4b7-4126-bf67-61c6f81d3762" />
+
 
 ### AI Analyst
-![Analyst] (https://1drv.ms/i/c/0C3C682A870456A0/IQA5sVmLe6KDQZAm9kjonpbdAe-H5qkcgHyZLzg395TQNOY?e=ma76m8)
+![Analyst]<img width="1460" height="726" alt="AI analyst" src="https://github.com/user-attachments/assets/83266ff1-2088-4c7a-8ee3-1911ba5f711c" />
+
 
 ### Insights 
-![Insights] (https://1drv.ms/i/c/0C3C682A870456A0/IQApAkv6W7DNT5kcH2qjyBsPAdkUsK_uj7RwPdH7whu4Daw?e=gIjOh2)
+![Insights]<img width="1460" height="722" alt="insights" src="https://github.com/user-attachments/assets/6ab63584-5928-4fd3-a52a-096d070d332c" />
+
 
 ### Compliance Audit
-![Compliance] (https://1drv.ms/i/c/0C3C682A870456A0/IQAOjwu9JzJYS5ZReYhDq8GkAb5Ovee1u4QnFX20AfuKKHg?e=NhuVFw)
+![Compliance]<img width="1458" height="726" alt="compilance" src="https://github.com/user-attachments/assets/ce700278-8b60-4024-b5a4-6b61852071aa" />
+
 
 ## 💻 Current Implementation Status
 
