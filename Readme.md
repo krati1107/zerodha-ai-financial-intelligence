@@ -17,22 +17,19 @@ Portfolio Input -> Data Fetch -> MCP Unification -> Analytics Engine -> LLM Anal
 ## 📸 Screenshots
 
 ### Overview Dashboard
-![Overview](overview.png)
+![Overview](screenshots/overview.png)
 
 ### Risk Analysis
-![Risk]<img width="1448" height="722" alt="risk" src="https://github.com/user-attachments/assets/d84858cd-c4b7-4126-bf67-61c6f81d3762" />
-
+![Risk](screenshots/risk.png)
 
 ### AI Analyst
-![Analyst]<img width="1460" height="726" alt="AI analyst" src="https://github.com/user-attachments/assets/83266ff1-2088-4c7a-8ee3-1911ba5f711c" />
+![Analyst](screenshots/analyst.png)
 
-
-### Insights 
-![Insights]<img width="1460" height="722" alt="insights" src="https://github.com/user-attachments/assets/6ab63584-5928-4fd3-a52a-096d070d332c" />
-
+### Insights & Recommendations
+![Insights](screenshots/insights.png)
 
 ### Compliance Audit
-![Compliance]<img width="1458" height="726" alt="compilance" src="https://github.com/user-attachments/assets/ce700278-8b60-4024-b5a4-6b61852071aa" />
+![Compliance](screenshots/compliance.png)
 
 
 ## 💻 Current Implementation Status
