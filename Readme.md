@@ -38,23 +38,22 @@ This platform solves that gap with a governed AI intelligence layer that:
 | Deployment | Netlify (frontend) |
 
 ---
-
 ## 📸 Screenshots
 
 ### Overview Dashboard
 Real-time KPIs, performance chart vs NIFTY 50, sector allocation donut, top holdings and movers.
 
-![Overview Dashboard](screenshots/overview.png)
+![Overview](screenshots/overview.png)
 
 ### Risk Analysis
 HHI concentration index, top-3 holdings check, largest sector exposure with color-coded limits.
 
-![Risk Analysis](screenshots/risk.png)
+![Risk](screenshots/risk.png)
 
 ### AI Analyst
 Conversational portfolio intelligence with policy guard — never gives buy/sell advice.
 
-![AI Analyst](screenshots/analyst.png)
+![Analyst](screenshots/analyst.png)
 
 ### Insights & Recommendations
 8-stage AI pipeline with validated summary and explainable recommendation cards.
@@ -64,8 +63,7 @@ Conversational portfolio intelligence with policy guard — never gives buy/sell
 ### Compliance Audit
 Full audit trail with validation status, model version, reviewer decisions.
 
-![Compliance Audit](screenshots/compliance.png)
-
+![Compliance](screenshots/compliance.png)
 ---
 
 ## 💻 Current Implementation Status
