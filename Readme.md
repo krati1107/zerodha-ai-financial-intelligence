@@ -1,99 +1,104 @@
-Zerodha AI Financial Intelligence Platform
+# Zerodha AI Financial Intelligence Platform
+
 An AI-powered portfolio intelligence platform that transforms portfolio data, market signals, and analytics into explainable insights and recommendations.
 
-🌐 Live Demo
-🔗 Open Live Dashboard on Netlify
+## 🌐 Live Demo
 
-📹 Demo Video
-▶️ Watch the Demo Video on OneDrive
+**[🔗 Open Live Dashboard on Netlify](https://amazing-licorice-6b392f.netlify.app)**
 
-🚀 Project Overview
-Zerodha serves investors who hold diversified portfolios but struggle to interpret what is happening across positions, sectors, risk exposure, and market movement. Portfolio screens show numbers — prices, gains, losses — but they do not explain why the portfolio moved, where risk is concentrated, or what the investor should review next.
+## 📹 Demo Video
+
+**[▶️ Watch the Demo Video on OneDrive](https://1drv.ms/f/c/0C3C682A870456A0/IgBuevacCYnxS7JwBxCysJftAaS-32Xre-_z-0u7L0L1oOc?e=pbRy7W)**
+
+---
+
+## 🚀 Project Overview
+
+Zerodha serves investors who hold diversified portfolios but struggle to interpret what is happening across positions, sectors, risk exposure, and market movement. Portfolio screens show numbers — prices, gains, losses — but they do not explain **why** the portfolio moved, **where** risk is concentrated, or **what** the investor should review next.
 
 This platform solves that gap with a governed AI intelligence layer that:
 
-Converts portfolio data into plain-language explanations
+- Converts portfolio data into **plain-language explanations**
+- Surfaces **concentration and sector risk** with metrics
+- Generates **reviewable recommendation cards** with rationale
+- Maintains **full compliance auditability**
 
-Surfaces concentration and sector risk with metrics
+## 🏗️ ArchitecturePortfolio Input → Data Fetch → MCP Unification → Analytics Engine
+→ LLM Analysis → Validation → Recommendation Engine → Dashboards
 
-Generates reviewable recommendation cards with rationale
+**Technology Stack:**
 
-Maintains full compliance auditability
+| Layer | Technology |
+|-------|-----------|
+| Frontend | HTML, CSS, JavaScript (single-page dashboard) |
+| Backend | FastAPI, Python, Pandas, NumPy |
+| Market Data | Alpha Vantage API with graceful fallback |
+| MCP Server | Custom Python tool registry |
+| AI Workflow | Context builder, validation layer, recommendation engine |
+| Deployment | Netlify (frontend) |
 
-🏗️ Architecture
-text
-Portfolio Input → Data Fetch → MCP Unification → Analytics Engine
-    → LLM Analysis → Validation → Recommendation Engine → Dashboards
-Technology Stack:
+---
 
-Layer	Technology
-Frontend	HTML, CSS, JavaScript (single-page dashboard)
-Backend	FastAPI, Python, Pandas, NumPy
-Market Data	Alpha Vantage API with graceful fallback
-MCP Server	Custom Python tool registry
-AI Workflow	Context builder, validation layer, recommendation engine
-Deployment	Netlify (frontend)
-📸 Screenshots
-Overview Dashboard
+## 📸 Screenshots
+
+### Overview Dashboard
 Real-time KPIs, performance chart vs NIFTY 50, sector allocation donut, top holdings and movers.
 
-https://screenshots/overview.png
+![Overview Dashboard](screenshots/overview.png)
 
-Risk Analysis
+### Risk Analysis
 HHI concentration index, top-3 holdings check, largest sector exposure with color-coded limits.
 
-https://screenshots/risk.png
+![Risk Analysis](screenshots/risk.png)
 
-AI Analyst
+### AI Analyst
 Conversational portfolio intelligence with policy guard — never gives buy/sell advice.
 
-https://screenshots/analyst.png
+![AI Analyst](screenshots/analyst.png)
 
-Insights & Recommendations
+### Insights & Recommendations
 8-stage AI pipeline with validated summary and explainable recommendation cards.
 
-https://screenshots/insights.png
+![Insights](screenshots/insights.png)
 
-Compliance Audit
+### Compliance Audit
 Full audit trail with validation status, model version, reviewer decisions.
 
-https://screenshots/compliance.png
+![Compliance Audit](screenshots/compliance.png)
 
-💻 Current Implementation Status
-Frontend Prototype (Working): A fully interactive dashboard (frontend/prototype/index.html) built with HTML/CSS/JS. It demonstrates portfolio overview, risk panels, AI Analyst chat, recommendation cards, and compliance/operations dashboards.
+---
 
-Backend API (FastAPI): Modular backend code (backend/main.py) implements portfolio analysis, market data orchestration, insights generation, and audit endpoints.
+## 💻 Current Implementation Status
 
-AI Workflow: Prompt templates, context builder, validation layer, and recommendation engine are implemented in ai_workflows/ and backend/services/.
+- **Frontend Prototype (Working):** A fully interactive dashboard (`frontend/prototype/index.html`) built with HTML/CSS/JS. It demonstrates portfolio overview, risk panels, AI Analyst chat, recommendation cards, and compliance/operations dashboards.
+- **Backend API (FastAPI):** Modular backend code (`backend/main.py`) implements portfolio analysis, market data orchestration, insights generation, and audit endpoints.
+- **AI Workflow:** Prompt templates, context builder, validation layer, and recommendation engine are implemented in `ai_workflows/` and `backend/services/`.
+- **MCP Server:** Tool registry and governed execution logic is set up in `mcp_server/`.
 
-MCP Server: Tool registry and governed execution logic is set up in mcp_server/.
-
-📂 Repository Structure
-text
-zerodha-ai-financial-intelligence/
-├── frontend/prototype/index.html    # Working dashboard
+## 📂 Repository Structurezerodha-ai-financial-intelligence/
+├── frontend/prototype/index.html # Working dashboard
 ├── backend/
-│   ├── main.py                       # FastAPI app
-│   ├── api/                          # API endpoints
-│   ├── services/                     # Business logic
-│   └── database/schema.sql           # DB schema
-├── mcp_server/server.py              # MCP tool registry
-├── ai_workflows/                     # Context, validation, recommendations
-├── data/sample_portfolios.csv        # Sample data
-├── docs/                             # Architecture, API, MCP tooling
-└── screenshots/                      # Dashboard screenshots
-⚙️ How to Run Locally
-Frontend Prototype
-Clone the repository
+│ ├── main.py # FastAPI app
+│ ├── api/ # API endpoints
+│ ├── services/ # Business logic
+│ └── database/schema.sql # DB schema
+├── mcp_server/server.py # MCP tool registry
+├── ai_workflows/ # Context, validation, recommendations
+├── data/sample_portfolios.csv # Sample data
+├── docs/ # Architecture, API, MCP tooling
+└── screenshots/ # Dashboard screenshots
 
-Navigate to frontend/prototype/
 
-Open index.html in a browser
+## ⚙️ How to Run Locally
 
-Click "Start with a sample portfolio"
+### Frontend Prototype
+1. Clone the repository
+2. Navigate to `frontend/prototype/`
+3. Open `index.html` in a browser
+4. Click **"Start with a sample portfolio"**
 
-Backend API
-bash
+### Backend API
+```bash
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
@@ -101,12 +106,11 @@ API documentation available at http://localhost:8000/docs
 
 🔐 Environment Variables
 Copy .env.example to .env and fill in your keys:
-
-text
 MARKET_API_KEY=your_alpha_vantage_key
 MCP_SERVER_URL=http://localhost:8001
 GEMINI_API_KEY=your_gemini_key
 DATABASE_URL=sqlite:///./zerodha.db
+
 📡 API Endpoints
 Method	Endpoint	Purpose
 GET	/health	Health check
@@ -179,3 +183,4 @@ GitHub: @krati1107
 Role: Sole contributor — Product design, frontend, backend, AI workflows, MCP server, documentation, and testing
 
 This is a solo project. All components were designed and implemented individually by Krati Shrivastava.
+
