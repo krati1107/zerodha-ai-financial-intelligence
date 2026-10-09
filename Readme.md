@@ -31,7 +31,6 @@ Portfolio Input -> Data Fetch -> MCP Unification -> Analytics Engine -> LLM Anal
 ### Compliance Audit
 ![Compliance](screenshots/compliance.png)
 
-
 ## 💻 Current Implementation Status
 
 - **Frontend Prototype (Working):** A fully interactive dashboard (`frontend/prototype/index.html`) built with HTML/CSS/JS. It demonstrates portfolio overview, risk panels, AI Analyst chat, recommendation cards, and compliance/operations dashboards.
