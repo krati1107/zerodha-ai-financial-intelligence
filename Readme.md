@@ -64,6 +64,7 @@ Conversational portfolio intelligence with policy guard — never gives buy/sell
 Full audit trail with validation status, model version, reviewer decisions.
 
 ![Compliance](screenshots/compliance.png)
+
 ---
 
 ## 💻 Current Implementation Status
